@@ -24,12 +24,6 @@
                 charge = hours * 2 + 2;
             }
             Console.WriteLine(charge);
-
-            // Test both changes with the following test data
-            // A369 WNV1
-            // BV03 NXD, 5 
-            // CS73 CSP, 1
-            // Show your test evidence in the Readme
         }
     }
 }
